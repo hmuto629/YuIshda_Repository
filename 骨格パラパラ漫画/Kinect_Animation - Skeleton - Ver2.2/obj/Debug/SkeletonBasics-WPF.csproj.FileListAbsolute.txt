@@ -1,0 +1,50 @@
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2\obj\Debug\MainWindow.baml
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2\obj\Debug\MainWindow.g.cs
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2\obj\Debug\App.g.cs
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.1\obj\Debug\MainWindow.baml
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.1\obj\Debug\MainWindow.g.cs
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.1\obj\Debug\App.g.cs
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.1\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.1\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.1\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.1\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.1\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.1\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.1\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.1\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.1\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.1\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.TeamWindow.resources
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.2\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.2\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.2\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.2\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.2\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.2\obj\Debug\MainWindow.baml
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.2\obj\Debug\MainWindow.g.cs
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.2\obj\Debug\App.g.cs
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.2\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.2\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.2\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.2\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.TeamWindow.resources
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\Kinect_Animation - Skeleton - Ver2.2\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
