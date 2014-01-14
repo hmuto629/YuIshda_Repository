@@ -9,3 +9,5 @@ C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グル
 C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\最終課題\Kinect_Paint\Kinect_Paint\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
 C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\最終課題\Kinect_Paint\Kinect_Paint\obj\Debug\SkeletonBasics-WPF.exe
 C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\最終課題\Kinect_Paint\Kinect_Paint\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\最終課題\Kinect_Paint\Kinect_Paint\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\1123043\Documents\講義\3年\後期\情報メディア演習Ⅱ\グループ課題\最終課題\Kinect_Paint\Kinect_Paint\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.VersionInfo.resources

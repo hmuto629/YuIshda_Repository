@@ -92,8 +92,10 @@ namespace Microsoft.Samples.Kinect.SkeletonBasics
         {
             InitializeComponent();
 
+            Title = "Kinect ペイントツール";
             ClearButton.Content = "画面をクリア";
             FileOutButton.Content = "画像を書き出し";
+            VersionInfoButton.Content = "バージョン情報";
 
             // DrawPaintClassのインスタンス化
             drawPaint = new DrawPaint();
@@ -405,6 +407,14 @@ namespace Microsoft.Samples.Kinect.SkeletonBasics
         private void FileOutButton_Click(object sender, RoutedEventArgs e)
         {
             pictureShot.ShotPicture();
+        }
+
+        // バージョン情報をおした時の動作
+        private void VersionInfoButton_Click(object sender, RoutedEventArgs e)
+        {
+            VersionInfo varInfo = new VersionInfo();
+
+            varInfo.Show();
         }
     }
 }
